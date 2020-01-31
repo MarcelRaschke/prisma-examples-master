@@ -1,0 +1,32 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "flow/graphql/package.json",
+        "flow/script/package.json",
+        "node/cli-app/package.json",
+        "node/docker-mongodb/package.json",
+        "node/docker-mysql/package.json",
+        "node/docker-postgres/package.json",
+        "node/graphql-auth/package.json",
+        "node/graphql-schema-delegation/package.json",
+        "node/graphql-subscriptions/package.json",
+        "node/graphql/package.json",
+        "node/grpc/package.json",
+        "node/rest-express/package.json",
+        "node/script/package.json",
+        "typescript/circleci/package.json",
+        "typescript/cli-app/package.json",
+        "typescript/docker-mongodb/package.json",
+        "typescript/docker-mysql/package.json",
+        "typescript/docker-postgres/package.json",
+        "typescript/graphql-auth/package.json",
+        "typescript/graphql-subscriptions/package.json",
+        "typescript/graphql/package.json",
+        "typescript/grpc/package.json",
+        "typescript/rest-express/package.json",
+        "typescript/script/package.json"
+      ]
+    }
+  }
+}

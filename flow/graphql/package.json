@@ -1,10 +1,10 @@
 {
   "name": "graphql",
   "devDependencies": {
-    "@babel/node": "7.10.3",
-    "@babel/core": "7.10.3",
-    "@babel/preset-env": "7.10.3",
-    "@babel/preset-flow": "7.10.1",
+    "@babel/node": "7.10.4",
+    "@babel/core": "7.10.4",
+    "@babel/preset-env": "7.10.4",
+    "@babel/preset-flow": "7.10.4",
     "flow-bin": "0.128.0",
     "graphqlgen": "0.5.1"
   },

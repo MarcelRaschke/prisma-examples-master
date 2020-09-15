@@ -16,7 +16,7 @@
     "@types/bcrypt": "3.0.0",
     "@types/graphql": "14.2.3",
     "@types/jsonwebtoken": "8.5.0",
-    "@types/node": "10.17.32",
+    "@types/node": "10.17.33",
     "@types/ws": "6.0.4",
     "graphqlgen": "0.5.1",
     "ts-node": "8.10.2",

@@ -1,10 +1,10 @@
 {
   "name": "script",
   "devDependencies": {
-    "@babel/node": "7.12.10",
-    "@babel/core": "7.12.10",
-    "@babel/preset-env": "7.12.11",
-    "@babel/preset-flow": "7.12.1",
+    "@babel/node": "7.12.13",
+    "@babel/core": "7.12.13",
+    "@babel/preset-env": "7.12.13",
+    "@babel/preset-flow": "7.12.13",
     "flow-bin": "0.143.1"
   },
   "dependencies": {

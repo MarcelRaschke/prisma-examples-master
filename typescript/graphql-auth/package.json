@@ -15,7 +15,7 @@
     "@types/aws-lambda": "8.10.72",
     "@types/bcrypt": "3.0.0",
     "@types/graphql": "14.2.3",
-    "@types/jsonwebtoken": "8.5.0",
+    "@types/jsonwebtoken": "8.5.1",
     "@types/node": "10.17.55",
     "@types/ws": "6.0.4",
     "graphqlgen": "0.5.1",

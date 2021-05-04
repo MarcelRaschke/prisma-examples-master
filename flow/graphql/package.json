@@ -3,7 +3,7 @@
   "devDependencies": {
     "@babel/node": "7.13.13",
     "@babel/core": "7.14.0",
-    "@babel/preset-env": "7.14.0",
+    "@babel/preset-env": "7.14.1",
     "@babel/preset-flow": "7.13.13",
     "flow-bin": "0.150.0",
     "graphqlgen": "0.5.1"

@@ -5,7 +5,7 @@
     "@babel/core": "7.14.8",
     "@babel/preset-env": "7.14.8",
     "@babel/preset-flow": "7.14.5",
-    "flow-bin": "0.155.1"
+    "flow-bin": "0.156.0"
   },
   "dependencies": {
     "prisma-client-lib": "1.34.12"

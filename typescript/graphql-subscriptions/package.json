@@ -9,7 +9,7 @@
     "typescript": "3.9.10"
   },
   "dependencies": {
-    "graphql-yoga": "1.18.3",
+    "graphql-yoga": "2.0.0",
     "prisma-client-lib": "1.34.12"
   },
   "scripts": {

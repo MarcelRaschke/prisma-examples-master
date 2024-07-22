@@ -19,7 +19,7 @@
     "@types/node": "10.17.60",
     "@types/ws": "6.0.4",
     "graphqlgen": "0.5.1",
-    "ts-node": "8.10.2",
+    "ts-node": "10.9.2",
     "typescript": "3.9.10"
   }
 }

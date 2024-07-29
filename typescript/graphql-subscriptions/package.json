@@ -3,7 +3,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/aws-lambda": "8.10.86",
-    "@types/ws": "6.0.4",
+    "@types/ws": "8.5.12",
     "graphqlgen": "0.5.1",
     "ts-node": "8.10.2",
     "typescript": "3.9.10"
